@@ -1,0 +1,17 @@
+transformers
+gradio
+torchvision
+shap
+captum
+torch
+shap
+tensorflow_hub
+Pillow
+matplotlib
+spacy_streamlit
+streamlit
+scipy
+plotly
+numpy
+sentencepiece
+captum
